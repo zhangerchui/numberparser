@@ -1,5 +1,4 @@
-# numberparser
-# numberparser
+
 数字解析器
 System.out.println(numberHand.takeNumberFromString("12.55万"));
 System.out.println(numberHand.takeNumberFromString("三零万二零千拉阿拉啦啦30万20千嚯嚯或百四嚯嚯嚯四百三十二分之2345啦啦啦啦"));
