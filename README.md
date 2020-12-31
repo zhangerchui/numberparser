@@ -34,3 +34,5 @@ System.out.println(numberHand.takeNumberFromString("负百分之点二八你好�
 []
 [570001700]
 [-0.0028, 0.35, 0.5, -0.6528]
+
+参考来源：https://github.com/Wall-ee/chinese2digits
